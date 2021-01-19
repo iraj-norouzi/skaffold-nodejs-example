@@ -3,7 +3,7 @@ const app = express()
 
 app.get('/', function (req, res) {
   res.json({
-    status: 'ok'
+    status: 'iraj'
   })
 })
 
